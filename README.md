@@ -15,6 +15,10 @@ Código HTML:
 *  Quando conter um texto maior, pode-se formatar a caixa de texto para quebrar linhas, então deve usar ```data-balloon-length```, passando-se o tamanho. \
 *  Se queseres deixar sempre visível, deve utilizar apenas ```data-balloon-visible```.
 
+## O resultado final fica assim:
+
+![](https://github.com/mateuslph/balloon/blob/main/dica-balloon.png)
+
 ### Imagem extraído do site oficial, [kazzkiq.github.io/balloon.css](https://kazzkiq.github.io/balloon.css/):
 
 ![](https://github.com/mateuslph/balloon/blob/main/kazzkiq-github-io-balloon-css.png)
